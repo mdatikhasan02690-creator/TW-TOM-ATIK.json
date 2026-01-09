@@ -4,6 +4,12 @@
     "server_msg": "Server is Active",
     "username": "Atik",
     "password": "123",
-    "id": "33911371d2fa5e4a"
+    "allowed_ids": [
+      "ID_1_HERE",
+      "ID_2_HERE",
+      "ID_3_HERE",
+      "ID_4_HERE",
+      "ID_5_HERE"
+    ]
   }
 ]
