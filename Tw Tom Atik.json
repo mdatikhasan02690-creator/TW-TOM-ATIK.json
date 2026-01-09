@@ -1,5 +1,9 @@
-{
-"user_name": "Atik",
-"user_password": "2026",
-"device_id": "3396556c4d7e828a"
-}
+[
+  {
+    "status": "online",
+    "server_msg": "Server is Active",
+    "username": "Atik",
+    "password": "123",
+    "id": "33911371d2fa5e4a"
+  }
+]
