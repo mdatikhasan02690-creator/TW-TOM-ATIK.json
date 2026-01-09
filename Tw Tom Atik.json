@@ -1,16 +1,5 @@
-[
-  {
-    "id": "33911371d2fa5e4a",
-    "username": "AtikMods",
-    "password": "TwAyFFKing",
-    "expiresAt": "2025-20-31",
-    "allowOffline": true
-  },
-  {
-    "id": "android_device_id_2",
-    "username": "user2",
-    "password": "pass2",
-    "expiresAt": "2025-9-30",
-    "allowOffline": false
-  }
-]
+{
+"user_name": "Atik",
+"user_password": "2026",
+"device_id": "3396556c4d7e828a"
+}
